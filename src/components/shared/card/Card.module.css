@@ -1,0 +1,7 @@
+.basic-card-config {
+    @apply rounded border-none bg-bt-white
+}
+
+.image-card-layout {
+    @apply relative overflow-hidden
+}

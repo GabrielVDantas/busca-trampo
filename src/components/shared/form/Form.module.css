@@ -1,0 +1,11 @@
+.form-item-layout {
+    @apply mt-2
+}
+
+.label-style {
+    @apply text-bt-green
+}
+
+.basic-input-style {
+    @apply rounded border-2 border-bt-lightgray text-bt-lightgray focus:border-bt-green focus:text-bt-green
+}
